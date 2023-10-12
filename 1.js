@@ -1,2 +1,10 @@
+// Introduction to JavaScript
 console.log("Hello JS!")
-console.log("Checking Branch Config");
+
+function addThreeNumbers(a, b, c)
+{
+    return a+b+c;
+}
+
+let c = addThreeNumbers(2,4,6)
+console.log(c);
