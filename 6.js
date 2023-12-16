@@ -65,3 +65,9 @@ console.log("Logical Operators");
 console.log(l1<=5 && l2<=16);
 console.log(l1<5 && l2<10);
 console.log(l1<5 || l2<10);
+console.log(!true);
+
+console.log();
+console.log("Comments");
+console.log("Single Line Comment: // Comment");
+console.log("Multi Line Comment: /* Comment */");
