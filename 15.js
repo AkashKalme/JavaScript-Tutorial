@@ -29,4 +29,4 @@ console.log(amount);
 // 5. Try to change the 4th character of a given string.
 let friend = "Deepika"
 friend[4] = 'R'
-console.log(friend);
+console.log(friend);                // Strings are immutable.
