@@ -20,3 +20,8 @@ marks[0] = 66
 
 console.log(marks);
 console.log("The length of array 'marks' is " + marks.length);
+
+marks[10] = 70
+
+console.log(marks);
+console.log("The length of array 'marks' is " + marks.length);
